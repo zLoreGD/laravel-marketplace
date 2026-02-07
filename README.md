@@ -23,7 +23,7 @@ This is a Laravel marketplace project with products, categories, and Filament ad
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/marketplace.git
+git clone https://github.com/zLoreGD/laravel-marketplace.git
 cd marketplace
 ```
 2. **Install PHP dependencies**
